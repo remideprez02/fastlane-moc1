@@ -4,8 +4,7 @@ lane :bonjour do
 
   scan(
     project: "FastlaneDemo.xcodeproj",
-    code_coverage: true
+    code_coverage:true
   )
-  xcov
 
 end
