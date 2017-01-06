@@ -414,6 +414,7 @@
 				A31F8EB11E1CFB6D008F6502 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A31F8EB21E1CFB6D008F6502 /* Build configuration list for PBXNativeTarget "FastlaneDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				A31F8EB41E1CFB6D008F6502 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
